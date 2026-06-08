@@ -29,3 +29,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+		https://unsplash.com/photos/black-metal-gear-on-black-metal-tool-OIwLUSQj4b0
