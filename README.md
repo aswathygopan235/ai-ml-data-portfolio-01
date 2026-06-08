@@ -1,36 +1,31 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Introduction
+
+Hello. I am Aswathy. This is my compilation of my AI, ML and data science projects.
 
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Credits
 
-(* = Not included)
+Demo Images:
+    Unsplash (unsplash.com)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
+[Black metal gear on black metal tool photo – Free Grey Image on Unsplash](https://unsplash.com/photos/black-metal-gear-on-black-metal-tool-OIwLUSQj4b0) [Black trike parked near soter photo – Free Black Image on Unsplash](https://unsplash.com/photos/black-trike-parked-near-soter-F6-U5fGAOik) [Aerial photography of airliner photo – Free Sunset Image on Unsplash](https://unsplash.com/photos/aerial-photography-of-airliner-rf6ywHVkrlY) [The continents and oceans with clouds photo – Free Earth Image on Unsplash](https://unsplash.com/photos/the-continents-and-oceans-with-clouds-gyp1xkjZNg8)
 
 
-Credits:
+Icons:
+    Font Awesome (fontawesome.io)
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Other:
+    jQuery (jquery.com)
+    Responsive Tools (github.com/ajlkn/responsive-tools)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+   
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Website template:
 
-		https://unsplash.com/photos/black-metal-gear-on-black-metal-tool-OIwLUSQj4b0
-		https://unsplash.com/photos/black-trike-parked-near-soter-F6-U5fGAOik
-		https://unsplash.com/photos/aerial-photography-of-airliner-rf6ywHVkrlY
-		https://unsplash.com/photos/the-continents-and-oceans-with-clouds-gyp1xkjZNg8
+Photon by HTML5 UP from https://html5up.net
+
+
+[Photon | HTML5 UP](https://html5up.net/photon) | @ajlkn |AJ [aj@lkn.io](mailto:aj@lkn.io)
+
+Free for personal and commercial use under the CCA 3.0 license (https://html5up.net/license)
