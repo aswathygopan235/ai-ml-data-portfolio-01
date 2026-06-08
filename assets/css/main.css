@@ -2508,6 +2508,20 @@ input[type="radio"]+label:before {
 	width: 100%;
 }
 
+.image.fit-card {
+	display: block;
+	margin: 0 0 2em 0;
+	width: 100%;
+	/* border-radius: 15px; */
+}
+
+.image.fit-card img {
+	width: 100%;
+	height: 40vh;
+	border-radius: 25px;
+	object-fit: cover;
+}
+
 /* List */
 
 ol {
