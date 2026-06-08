@@ -33,3 +33,4 @@ Credits:
 		https://unsplash.com/photos/black-metal-gear-on-black-metal-tool-OIwLUSQj4b0
 		https://unsplash.com/photos/black-trike-parked-near-soter-F6-U5fGAOik
 		https://unsplash.com/photos/aerial-photography-of-airliner-rf6ywHVkrlY
+		https://unsplash.com/photos/the-continents-and-oceans-with-clouds-gyp1xkjZNg8
